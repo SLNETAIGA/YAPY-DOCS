@@ -1,0 +1,7 @@
+site_name: YAPY Docs
+pages:
+    - Introduction: index.md
+    - Builtins: builtins.md
+    - Downloads: dw.md
+    - Examples: exm.md
+theme: readthedocs
