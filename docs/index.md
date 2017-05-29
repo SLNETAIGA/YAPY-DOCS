@@ -21,5 +21,6 @@ When we run any Yapy program it's compiles into bytecode and then evaluating(as 
 
 ## TODO
 * Lambdas
+* Implement data.get and data.set
 * Fix a lot of bugs.
 * Make it's more compatable with CPython.  
